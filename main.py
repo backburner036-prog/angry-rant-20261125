@@ -1,6 +1,6 @@
 """One short rant: the printer, two minutes before my meeting.
 
-Writes a single line to /output/entry.txt.
+Writes a single line (233 chars, cap 400) to /output/entry.txt.
 """
 
 from pathlib import Path
